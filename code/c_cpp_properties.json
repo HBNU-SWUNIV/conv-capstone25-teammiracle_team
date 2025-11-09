@@ -1,0 +1,34 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/koo/ROS/catkin_ws/devel/include/**",
+        "/home/koo/ROS/ws_livox/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/koo/ROS/catkin_ws/src/cone_mission/include/**",
+        "/home/koo/ROS/catkin_ws/src/mapviz/mapviz/include/**",
+        "/home/koo/ROS/catkin_ws/src/mapviz/mapviz_plugins/include/**",
+        "/home/koo/ROS/catkin_ws/src/microstrain_inertial/microstrain_inertial_driver/include/**",
+        "/home/koo/ROS/catkin_ws/src/mapviz/multires_image/include/**",
+        "/home/koo/ROS/catkin_ws/src/pylon-ros-camera/pylon_camera/include/**",
+        "/home/koo/ROS/catkin_ws/src/flir_camera_driver/spinnaker_camera_driver/include/**",
+        "/home/koo/ROS/catkin_ws/src/mapviz/tile_map/include/**",
+        "/home/koo/ROS/catkin_ws/src/ublox_f9p/ublox_gps/include/**",
+        "/home/koo/ROS/catkin_ws/src/ublox_f9p/ublox_msgs/include/**",
+        "/home/koo/ROS/catkin_ws/src/ublox_f9p/ublox_serialization/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
+
